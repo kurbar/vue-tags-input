@@ -8,8 +8,8 @@ npm install @kurbar/vue-tags-input --save
 ```
 
 #### Changes
-* Support event.key strings in addOnKey prop. PR open [vue-tags-input#47](https://github.com/JohMun/vue-tags-input/pull/47)
-* ...
+* ~~Support event.key strings in addOnKey prop. PR open [vue-tags-input#47](https://github.com/JohMun/vue-tags-input/pull/47)~~ *MERGED*
+* Properly support addOnBlur. PR open [vue-tags-input#113](https://github.com/JohMun/vue-tags-input/pull/113)
 
 # vue-tags-input
 
